@@ -1,0 +1,186 @@
+##############################################################################################################
+#                                                                                                            #
+#  Key points of the list:                                                                                   #
+#                                                                                                            #
+#   -Daemonsmith Aura and Crimson Crown overlap makes the list's firepower really dangerous                  #
+#     Daemonsmith is an extra hit on an unmodified hit roll of 6                                             #
+#     Daemonsmith generates an extra attack on a modified wound roll of 6                                    #
+#     1 hit becomes 2 wound rolls becomes 2 more hit rolls becomes 4 wound rolls; 1 bullet, 6 wounds         #
+#     before someone reads this and screams "NARF" that's also a ~1/500,000,000 chance of happening          #
+#                                                                                                            #
+#   -Most bodies are T7, an exception to the Discordant at T6. High toughness skew and wound regeneration    #
+#     mean that low quality high volume shooting is significantly less effective.                            #
+#                                                                                                            #
+#   -Most units are exceptionally fast, being primarily 10" - 12" moves, and Heldrakes at 30". This allows   #
+#     the list to outmaneuver most slower or bulkier targets that would be unappealing to directly engage    #
+#                                                                                                            #
+#   -Engage on all Fronts or situationally Linebreaker can be easy VP, as is Octarius Data                   #
+#                                                                                                            #
+#   -Attrition, To the Last, and Stranglehold are each feasible for picks too. If taking To The Last         #
+#     though, the Lord Discordant needs to be played even cagier than usual to avoid giving up 5VP.          #
+#                                                                                                            #
+#   -Command Points are very limited. Starting at 8, using 1 to deepstrike bloodletters and 1 to deepstrike  #
+#     the cultists right out of the gate. With 6 now left, it is expected that Veterans and Rampant          #
+#     Techno-Virus will be used a minimum of once upon landing, leaving 4+5 "unallocated" Command Points.    #
+#                                                                                                            #
+##############################################################################################################
+
+
+
+++ Battalion Detachment 0CP (Chaos - Chaos Space Marines) [71 PL, 12CP, 1,315pts] ++
++ Configuration +
+Battle Size [12CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+Detachment Command Cost
+Legion: Iron Warriors
+
+
+##############################################################################################################
+#  Chaos Lord and Lord Discordant will move together with the Skullmaster HQ and the Venomcrawlers           #
+#                                                                                                            #
+#  The Lord Discordant is a melee blender, and here it's cranked to 11. 2x S4 AP0 D1 attacks are upgraded    #
+#  to instead 4x attacks dealing a mortal wound on successful hit. Disco hits on 2+ base with a +1 aura.     #
+#  Lacks protection from "Look out, Sir!" due to having 12W, and is slightly softer at T6, but isn't         #
+#  impossible to keep hidden until it's time to make charges. He's a scalpel, not a sledghammer.             #
+#                                                                                                            #
+##############################################################################################################
++ HQ +
+Chaos Lord [7 PL, 130pts]: 2. Daemonsmith, Jump pack, Lightning Claw, Mark of Khorne, Thunder hammer, Warlord
+
+Lord Discordant on Helstalker [10 PL, 200pts]: Baleflamer, Mark of Khorne, Techno-venomous Mechatendrils
+. Helstalker: Techno-virus injector
+
+
+##############################################################################################################
+#                                                                                                            #
+#  Start 2-3 squads in reserves for 1CP until turns 2 & 3 for Engage, retrieve octarius, and primaries       #
+#  Whether to start 2 or all 3 units in reserves largely depends on enemy artillery and primary objectives   #
+#                                                                                                            #
+##############################################################################################################
++ Troops +
+Chaos Cultists [3 PL, 50pts]: No Chaos Mark
+. 9x Chaos Cultist w/ Autogun: 9x Autogun
+. Cultist Champion: Autogun
+
+Chaos Cultists [3 PL, 50pts]: No Chaos Mark
+. 9x Chaos Cultist w/ Autogun: 9x Autogun
+. Cultist Champion: Autogun
+
+Chaos Cultists [3 PL, 50pts]: No Chaos Mark
+. 9x Chaos Cultist w/ Autogun: 9x Autogun
+. Cultist Champion: Autogun
+
+
+##############################################################################################################
+#                                                                                                            #
+#  Venomcrawlers are effective against elite and heavy units in both melee and at range, and punch far       #
+#  above their weight class in this list with the stacked auras. Similarly, Obliterators will average        #
+#  26-30 wounds off their 18 shots without requiring 2CP for Endless Cocophany.                              #
+#                                                                                                            #
+#  Venomcrawler guns with the +1STR aura will reach STR9, allowing them to soften even superheavies up from  #
+#  range while moving up the table. Deployment and turn 1 movement should be defensive, focused on           #
+#  positioning for a turn 2 or 3 charge to claim a neutral or enemy table quarter & relevant objective(s).   #
+#                                                                                                            #
+#  Obliterators will rarely, if ever, deepstrike outside of the Crown & Daemonsmith auras. This allows       #
+#  for the Obliterators to always have a safe and protected landing zone, and can potentially be paired      #
+#  with the cultists coming in from a table edge depending on positioning. 10 cultist bodies isn't much,     # 
+#  but Cannon Fodder can be a game changer if the Obliterators are targeted by low volume high damage shots  #
+#                                                                                                            #
+#  While VERY niche, Khorne Obliterators can also fight twice for 3CP in desperate times.                    #
+#                                                                                                            #
+##############################################################################################################
++ Heavy Support +
+
+Obliterators [15 PL, 315pts]: Mark of Khorne
+. 3x Obliterator: 3x Crushing fists, 3x Fleshmetal guns
+
+Venomcrawler [7 PL, 110pts]: Mark of Khorne
+
+Venomcrawler [7 PL, 110pts]: Mark of Khorne
+
+
+##############################################################################################################
+#                                                                                                            #
+#  Heldrakes are harassment and Engage units. They'll rip apart infiltrating units and draw fire from        #
+#  the actual threats in the list. Left alone, they'll thrash soft targets in the back lines and interrupt   #
+#  shooting units while the rest of the army tears down the opposing army now left without supporting fire   #
+#                                                                                                            #
+##############################################################################################################
++ Flyer +
+
+Heldrake [8 PL, 150pts]: Baleflamer, Mark of Khorne
+
+Heldrake [8 PL, 150pts]: Baleflamer, Mark of Khorne
+
+++ Patrol Detachment -2CP (Chaos - Daemons) [33 PL, -4CP, 685pts] ++
+
+
+##############################################################################################################
+#                                                                                                            #
+#  The Skullmaster moves 8", can wear the Crimson Crown, brings a +1 STR aura, and packs a small punch       #
+#                                                                                                            #
+#  Be'lakor is a beatstick that cannot be ignored but is a really unappealing target to focus fire           #
+#                                                                                                            #
+#  Bloodletter bomb because Patrols need troops, and a unit with a high volume of attacks was a great        #
+#  way to round out the list that otherwise could potentially otherwise fall victim to a swarm skew list.    #
+#                                                                                                            #
+#  Because it is a pure Khorne Allegiance detachment, Be'lakor and Skullmaster each get the Locus which      #
+#  allows Khorne daemons in Daemons and CSM both to reroll charges - such as CSM Khorne Daemon Engines       #
+#                                                                                                            #
+#                                                                                                            #
+##############################################################################################################
++ Configuration +
+Chaos Allegiance: Khorne
+Detachment Command Cost [-2CP]
++ Stratagems +
+Rewards of Chaos (1 Relic) [-1CP]
+
+
+##############################################################################################################
+#                                                                                                            #
+#  Be'lakor, as mentioned, is an unignorable titan slayer who demands enemy focus fire, but punishes it by   #
+#  being a model that really only brings durability and damage, making him strategically unappetizing as     #
+#  a target, but one that cannot be ignored. Benefiting from obscuring at 16W makes him very hard to alpha   #
+#  off the table early, and sharing the T7 profile with all of the Daemon Engines adds to both the high      #
+#  toughness skew of the list and the threat overload nature of it. Also gives RR1 to Bloodletters if they   # 
+#  happen to charge in on the table flank he moves into.                                                     #
+#                                                                                                            #
+#  Ideally deploys away from the Daemon Engine blob on an opposite flank, and then each pincers the center   #
+#                                                                                                            #
+#                                                                                                            #
+##############################################################################################################
++ HQ +
+
+Be'lakor [18 PL, 360pts]: Betraying Shades, Voidslivers
+
+Skullmaster [5 PL, 95pts]: The Crimson Crown
+
+
+##############################################################################################################
+#                                                                                                            #
+#  Held in deepstrike until being flung out onto an objective turn 2 or turn 3 with banner of blood.         #
+#  Great for killing hordes, stealing objectives with high numbers of obsec bodies, and they have both       #
+#  both the option to fight twice for 3CP and/or to fight on death on a 4+ for 3CP. Niche, but useful.       #
+#                                                                                                            #
+#  Also useful for simply being a mass of 20 bodies that can be bumped up to a 4++ for 2CP.                  #
+#                                                                                                            #
+##############################################################################################################
++ Troops +
+
+Bloodletters [8 PL, -1CP, 185pts]: Banner of Blood, Bloodreaper, Daemonic Icon, Instrument of Chaos
+. 19x Bloodletter: 19x Hellblade
+
+
+##############################################################################################################
+#                                                                                                            #
+#  Task monkies who sometimes cause an extra model to die/flee when a morale check is failed.                #
+#  Honestly better as Tzeentch for the 4++, but then no free charge rerolls from the Locus.                  #
+#                                                                                                            #
+##############################################################################################################
++ Fast Attack +
+
+Furies [2 PL, 45pts]: Mark of Khorne
+. 5x Fury: 5x Daemonic claws
+
+++ Total: [104 PL, 8CP, 2,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
