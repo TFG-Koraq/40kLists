@@ -1,19 +1,79 @@
+##############################################################################################################
+#                                                                                                            #
+#  Key notes:                                                                                                #
+#                                                                                                            #
+#   Army Goals                                                                                               #
+#    -Hold objectives closest to deployment zone with Outriders, Heavy Intercessors                          #
+#    -Use DWB/SS DW Veterans squads for holding backline objectives, CS/SS DW Vets for Investigate Signal    #
+#                                                                                                            #
+#   Secondaries                                                                                              #
+#   -Battlefield Supremecy:   The Long Vigil                                                                 #
+#    No Mercy, No Respite:    Oath of Moment, To the Last                                                    #
+#    Shadow Operations:       Investigate Signal                                                             #
+#                                                                                                            #
+#   Stratagems                                                                                               #
+#   -Command Points are very limited. With only 4+5 to spend, which will almost certainly be used for        #
+#    Transhuman, Relentless Assault, and potentially Brotherhood of Veterans and/or Gene Wrought Might       #
+#                                                                                                            #
+##############################################################################################################
 
 ++ Patrol Detachment 0CP (Imperium - Adeptus Astartes - Deathwatch) [48 PL, 10CP, 940pts] ++
 + Configuration +
 Battle Size [12CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
 Chapter Selection: Deathwatch
 Detachment Command Cost
-
 + Stratagems +
 Stratagem: Sanction of the Black Vault [-1CP]
+
+
+##############################################################################################################
+#                                                                                                            #
+#  Librarian                                                                                                 #
+#   Might of Heroes for the Chaplain to get him to S9/T7, Psychic Fortress to give 5++ to Outriders          #
+#   Jump Pack to keep up with the Outriders/Chaplain                                                         #
+#   The Beacon Angelis in the event that some unit needs to exist somewhere else /right now/.                #
+#    e.g. Summoning the Apothecary from the Indomitus part of the field to the Outriders/Chaplain            #
+#                                                                                                            #
+#  Primaris Chaplain                                                                                         #
+#   Extraordinarily difficult to kill hyper mobile beatstick                                                 #
+#   Defensive profile - T7 | 3+ | 4++ | 4+++ | Primaris/Transhuman available                                 #
+#   Offensive Profile - 7 Attacks | 2+ WS | S9 | AP-1/2 | 4D                                                 #
+#   Can replace "The Imperiums Sword" with several options from "Paragon of their Chapter"                   #
+#    Black Templars for 6" Heroic Intervention, Raven Guard to redeploy during any movement step,            #
+#    Space Wolves for +1 attacks/hit/wound vs Monsters & Vehicles, Crimson Fists to revive on a 4+ on death  #
+#                                                                                                            #
+##############################################################################################################
 
 + HQ +
 Librarian [6 PL, 115pts]: 2) Might of Heroes, 6) Psychic Fortress (Aura), Boltgun, Force sword, Jump Pack, The Beacon Angelis
 
-Primaris Chaplain on Bike [7 PL, -1CP, 140pts]: 3. Exhortation of Rage, 4. Mantra of Strength, Chapter Command:  Master of Sanctity, Litany of Hate, Stratagem: A Vigil Unmatched, The Blackweave Shroud, The Imperium's Sword, Warlord
-. 5. Castellan of the Black Vault: Master-Crafted Weapon
+Primaris Chaplain on Bike [7 PL, -1CP, 140pts]: 
+ Litanies:             3. Exhortation of Rage, 4. Mantra of Strength 
+ Chapter Command:      Master of Sanctity, Litany of Hate, 
+ Warlord               5. Castellan of the Black Vault: Master-Crafted Weapon 
+ Stratagem:            A Vigil Unmatched, The Imperium's Sword 
+ Relic:                The Blackweave Shroud 
 
+
+##############################################################################################################
+#                                                                                                            #
+#  Fortis Kill Team                                                                                          # 
+#                                                                                                            #
+#   Furor - Most likely unit to be thrown into enemy Troop units (without wielding Lightning Claws)          #
+#   Intercessor squad will hold a 'safe' backline objective, provide supplemental fire on low T units        #
+#   Outriders move up with Chaplain to hold a forward objective; quite durable with Transhuman & 5++ | 5+++  #
+#   Will be most likely target of +1 Wound from the Chaplain                                                 #
+#                                                                                                            #
+#  Proteus Kill Team                                                                                         #
+#                                                                                                            #
+#   DW Vets provide supplemental fire while being relatively durable on a back objective                     #
+#    Investigate Signal objective goblins                                                                    #
+#   VanVets w/ Thunder hammers wound most targets on 3's, Aquila gives rerolling wound rolls of 1            #
+#    Stick near Fortis/Chaplain squad to take advantage of Chaplain full melee rerolls to counter -1 hit     #
+#    Outriders better at horde clearing than vehicle/monsters, good pairing for hammer VV's                  #
+#    Keep hidden and use to screen, keep within ~16" of Outriders/Chaplain as counter-punch                  #
+#                                                                                                            #
+##############################################################################################################
 
 + Troops +
 Fortis Kill Team [16 PL, 350pts]
@@ -22,33 +82,69 @@ Fortis Kill Team [16 PL, 350pts]
 . 5x Outrider: 5x Astartes Chainsword, 5x Frag & Krak grenades, 5x Heavy Bolt Pistol, 5x Twin Bolt rifle
 
 Proteus Kill Team [19 PL, 335pts]: Aquila, Jump Packs
-. Deathwatch Veteran: Astartes Chainsword, Storm shield
-. Deathwatch Veteran: Astartes Chainsword, Storm shield
-. Deathwatch Veteran: Astartes Chainsword, Storm shield
-. Deathwatch Veteran: Astartes Chainsword, Storm shield
+. Deathwatch Veteran: Deathwatch Boltgun, Storm shield
+. Deathwatch Veteran: Deathwatch Boltgun, Storm shield
+. Deathwatch Veteran: Deathwatch Boltgun, Storm shield
+. Deathwatch Veteran: Deathwatch Boltgun, Storm shield
 . Vanguard Veteran: Storm shield, Thunder hammer
 . Vanguard Veteran: Storm shield, Thunder hammer
 . Vanguard Veteran: Storm shield, Thunder hammer
 . Vanguard Veteran: Storm shield, Thunder hammer
 . Vanguard Veteran: Storm shield, Thunder hammer
-. Watch Sergeant: Astartes Chainsword, Storm shield
+. Watch Sergeant: Deathwatch Boltgun, Storm shield
 
 
 ++ Patrol Detachment -2CP (Imperium - Adeptus Astartes - Deathwatch) [59 PL, -6CP, 1,025pts] ++
 + Configuration +
 Chapter Selection: Deathwatch
 Detachment Command Cost [-2CP]
-
 + Stratagems +
 Relics of the Chapter [-2CP]: 2x Number of Extra Relics
 
 
+##############################################################################################################
+#                                                                                                            #
+#  Primaris Captain                                                                                          #
+#   Exists primarily for reroll 1's and to carry Dominus Aegis for the 5++ aura for Indomitor Kill Team      #
+#   Decent melee counterpunch with Master-crafted power sword                                                #
+#   Also can give reroll 1's to wound to Indomitor for Fast Attack & Elite killing                           #
+#   Honestly the Primaris Captain from Indomitus looks really damn cool                                      #
+#                                                                                                            #
+#  Primaris Librarian                                                                                        #                  
+#   6+ WC for 5+++ cast for Indomitor or Fortis, depending on locations of each and Apothecary location      #
+#   Reliquary of Gathalamor puts enemy Psykers at -1 within 18 and -2 within 12, with perils on every fail   #
+#    Will often be center table with Outriders on a flank, providing sizeable coverage area                  #
+#    +prevalence of newly buffed Thousand Sons and Grey Knights...                                           #
+#   Premorphic Resonance decent vs lower armor attackers, makes Indomitor overwatch quite scary              #
+#    Fantastic for hammer VV's squad                                                                         #
+#                                                                                                            #
+#                                                                                                            #
+##############################################################################################################
+
 + HQ +
 Primaris Captain [5 PL, -1CP, 105pts]: 1. Vigilance Incarnate, Dominus Aegis, Stratagem: Hero of the Chapter
-. Heavy bolt pistol, Master-crafted power sword and Relic shield: Master-crafted power sword, Relic Shield
+Heavy bolt pistol, Master-crafted power sword and Relic shield: Master-crafted power sword, Relic Shield
 
-Primaris Librarian [6 PL, 120pts]: 1. Premorphic Resonance, 2. Fortified With Contempt, 5. Mantle of Shadow, Chapter Command:  Chief Librarian, Reliquary of Gathalamor
+Primaris Librarian [6 PL, 120pts]: 
+1. Premorphic Resonance, 2. Fortified With Contempt, 5. Mantle of Shadow, 
+Chapter Command:  Chief Librarian, Reliquary of Gathalamor
 
+
+##############################################################################################################
+#                                                                                                            #
+#  Indomitor the center objective/map holder                                                                 #
+#   Depending on matchup, can combat squad into Multi+Inceptor +3  & 3Heavy rifle + 2 intercessors           #
+#    Multi-melta + Plasma Inceptor gives 4 melta + 4 plasma, solid enough for taking down light vehicles     #
+#    3 Heavy Melta Rifles for 6 shots will put down most heavies                                             #
+#    Can also deep strike either/both halves, or keep as single unit (such as vs Mortarion)                  #
+#                                                                                                            # 
+#  Proteus Kill Team is another objective goblin / support & counterpunch unit                               #
+#   No unit specialty because Lightning Claws make redundant                                                 #
+#    Can replace Storm Shields with claws & move with Indomitor under Librarian Shroud buff                  #
+#   Indomitor better at clearing monsters/vehicles than hordes, making for a good pairing with CS/LC vets    #
+#    Similarly useful for screening @ counter punch                                                          #
+#                                                                                                            #
+##############################################################################################################
 
 + Troops +
 Indomitor Kill Team [25 PL, 435pts]: Malleus
@@ -71,6 +167,13 @@ Proteus Kill Team [18 PL, 250pts]: Jump Packs
 . Vanguard Veteran: Astartes Chainsword, Lightning Claw
 . Watch Sergeant: Deathwatch Boltgun, Storm shield
 
+
+##############################################################################################################
+#                                                                                                            #
+#  Footslog with Indomitus, get teleported if needed to Chaplain/Outriders                                   #
+#  It's an Apothecary; you revive & heal stuff                                                               #
+#                                                                                                            #
+##############################################################################################################
 
 + Elites +
 Primaris Apothecary [5 PL, -1CP, 115pts]: Chapter Command:  Chief Apothecary, Selfless Healer, Stratagem: Hero of the Chapter
